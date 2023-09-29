@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CHEBAH Anis
-- 👀 I’m interested in Cyber-security.
-- 🌱 I’m currently a Computer science student at the Higher School of Computer Science Algiers.
+- 👀 I’m interested in Cloud native Topics.
+- 🌱 I’m currently a System Engineer at Namla.
 - 📫 How to reach me :
   - E-mail : anis.chebah2016@gmail.com 
 
